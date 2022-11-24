@@ -1,0 +1,2 @@
+C:\Users\samli\OneDrive\Documents\SNHU\CS 405\Repos\Mod4UnitTestV3\Mod4UnitTestV3\x64\Debug\Mod4UnitTestV3.vcxproj.CopyComplete
+C:\Users\samli\OneDrive\Documents\SNHU\CS 405 - Secure Coding\Repos\Mod4UnitTestV3\Mod4UnitTestV3\x64\Debug\Mod4UnitTestV3.vcxproj.CopyComplete
